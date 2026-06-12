@@ -53,7 +53,7 @@ export const ASSETS = {
     { id: 1,  name: 'Abdul Wahhab',   role: 'Captain / All-Rounder', number: 18, image: new URL('../assets/abdul-wahhab.jpg', import.meta.url).href },
     { id: 2,  name: 'Infaz',    role: 'Opening Batsman',        number: 7,  image: new URL('../assets/infaz.jpeg', import.meta.url).href },
     { id: 3,  name: 'Thasleem',    role: 'Fast Bowler',            number: 11,  image :new URL('../assets/thasleem.jpg', import.meta.url).href },
-    { id: 4,  name: 'Khaiz',    role: 'Wicket Keeper',          number: 4,  image: '' },
+    { id: 4,  name: 'Khaiz',    role: 'Wicket Keeper',          number: 4,  image :new URL('../assets/kaiz.jpg', import.meta.url).href },
     { id: 5,  name: 'Nifraz',    role: 'Spin Bowler',            number: 5,  image: '' },
     { id: 6,  name: 'Shifan',    role: 'Wicket Keeper',          number: 4,  image: '' },
     { id: 7,  name: 'Kavin',     role: 'Middle Order',           number: 6,  image: new URL('../assets/kavin.jpeg', import.meta.url).href  },
