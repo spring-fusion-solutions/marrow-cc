@@ -176,7 +176,7 @@ export default function Squad() {
             color: COLORS.subtle, textAlign: 'center', marginTop: '3rem',
             textTransform: 'uppercase',
           }}>
-          Squad updated for the 2024–25 season
+          Squad updated for the 2026season
         </motion.p>
       </div>
     </section>

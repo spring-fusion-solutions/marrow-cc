@@ -5,7 +5,7 @@ import { useScrollReveal, slideUp, slideLeft, slideRight, staggerContainer } fro
 
 const stats = [
   { value: '11', label: 'Squad Members' },
-  { value: '2024', label: 'Founded' },
+  { value: '2026', label: 'Founded' },
   { value: '100%', label: 'Family Bond' },
   { value: '∞',   label: 'Passion' },
 ];
