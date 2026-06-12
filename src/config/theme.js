@@ -60,7 +60,7 @@ export const ASSETS = {
     { id: 8,  name: 'Dhulakshan',   role: 'Opening Bowler',         number: 9,  image: new URL('../assets/dhulakshan.jpeg', import.meta.url).href },
     { id: 9,  name: 'Shabith',   role: 'All-Rounder',            number: 14, image: new URL('../assets/shabith.jpeg', import.meta.url).href  },
     { id: 10,  name: 'Ammar',    role: 'Batsman',                number: 22, image: '' },
-    { id: 11,  name: 'Abdul Malik',    role: 'Wicket Keeper',          number: 4,  image: '' },
+    { id: 11,  name: 'Abdul Malik',    role: 'Fast bowler',          number: 4,  image: '' },
     { id: 12,  name: 'Avishka',    role: 'Wicket Keeper',          number: 4,  image: '' },
    
   ],
