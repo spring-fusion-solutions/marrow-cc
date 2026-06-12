@@ -45,7 +45,7 @@ export const FONT_SIZES = {
 // ============================================================
 
 export const ASSETS = {
-  logo:   new URL('../assets/marrow-cc-logo.png', import.meta.url).href,   // local logo in src/assets
+  logo:   '/assets/logo.png',   // Replace with your hosted logo URL
   jersey: '/assets/jersey.png', // Replace with your hosted jersey URL
 
   // Squad member images — add/remove freely
