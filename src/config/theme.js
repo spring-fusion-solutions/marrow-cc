@@ -53,13 +53,16 @@ export const ASSETS = {
     { id: 1,  name: 'Abdul Wahhab',   role: 'Captain / All-Rounder', number: 18, image: new URL('../assets/abdul-wahhab.jpg', import.meta.url).href },
     { id: 2,  name: 'Infaz',    role: 'Opening Batsman',        number: 7,  image: '' },
     { id: 3,  name: 'Thasleem',    role: 'Fast Bowler',            number: 11, image: '' },
-    { id: 4,  name: 'Shifan',    role: 'Wicket Keeper',          number: 4,  image: '' },
+    { id: 4,  name: 'Khaiz',    role: 'Wicket Keeper',          number: 4,  image: '' },
     { id: 5,  name: 'Nifraz',    role: 'Spin Bowler',            number: 5,  image: '' },
-    { id: 6,  name: 'Kavin',     role: 'Middle Order',           number: 6,  image: '' },
-    { id: 7,  name: 'Dhulakshan',   role: 'Opening Bowler',         number: 9,  image: '' },
-    { id: 8,  name: 'Shabith',   role: 'All-Rounder',            number: 14, image: '' },
-    { id: 9,  name: 'Ammar',    role: 'Batsman',                number: 22, image: '' },
-    { id: 10, name: 'Abdul Malik',     role: 'Lower Order',            number: 3,  image: '' },
+    { id: 6,  name: 'Shifan',    role: 'Wicket Keeper',          number: 4,  image: '' },
+    { id: 7,  name: 'Kavin',     role: 'Middle Order',           number: 6,  image: '' },
+    { id: 8,  name: 'Dhulakshan',   role: 'Opening Bowler',         number: 9,  image: '' },
+    { id: 9,  name: 'Shabith',   role: 'All-Rounder',            number: 14, image: '' },
+    { id: 10,  name: 'Ammar',    role: 'Batsman',                number: 22, image: '' },
+    { id: 11,  name: 'Abdul Malik',    role: 'Wicket Keeper',          number: 4,  image: '' },
+    { id: 12,  name: 'Avishka',    role: 'Wicket Keeper',          number: 4,  image: '' },
+   
   ],
 };
 
