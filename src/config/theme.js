@@ -51,7 +51,7 @@ export const ASSETS = {
   // Squad member images — add/remove freely
   squad: [
     { id: 1,  name: 'Abdul Wahhab',   role: 'Captain / All-Rounder', number: 18, image: new URL('../assets/abdul-wahhab.jpg', import.meta.url).href },
-    { id: 2,  name: 'Infaz',    role: 'Opening Batsman',        number: 7,  image: '' },
+    { id: 2,  name: 'Infaz',    role: 'Opening Batsman',        number: 7,  image: new URL('../assets/infaz.jpeg', import.meta.url).href },
     { id: 3,  name: 'Thasleem',    role: 'Fast Bowler',            number: 11, image: '' },
     { id: 4,  name: 'Khaiz',    role: 'Wicket Keeper',          number: 4,  image: '' },
     { id: 5,  name: 'Nifraz',    role: 'Spin Bowler',            number: 5,  image: '' },
